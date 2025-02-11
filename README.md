@@ -1,10 +1,14 @@
 # counterapp
 
-A new Flutter project.
+A new Flutter project that displays a counter of numbers.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project Has implemented a provider to enable state management in the app.
+
+##Video recording of the app.
+
+https://github.com/user-attachments/assets/a88bd7cc-a834-484d-8436-043abe0b8641
 
 A few resources to get you started if this is your first Flutter project:
 
